@@ -7,7 +7,7 @@ Files: `app.py` (dashboard), `vial_core.py` (inspection logic), `ui.py` (styling
 `isaac/` holds the NVIDIA Isaac Sim digital-twin generator, `digital_twin/` sample synthetic frames with exact labels.
 
 ## Quick start (any computer)
-Team: Malik Bennani, Abdullahi Oyekanmi, Markos Lezama, Oluwatobi Odekunle - Rockwell Automation x NVIDIA hackathon.
+Team: Malik Bennani and Abdullahi Oyekanmi - Rockwell Automation x NVIDIA hackathon.
 
 1. Install **Python 3.10 or newer** from https://www.python.org/downloads/ (Windows: tick "Add python.exe to PATH").
 2. Download this folder and unzip it.
