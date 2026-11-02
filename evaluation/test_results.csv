@@ -1,0 +1,323 @@
+image,position_id,true_label,status,label,model_first_answer,second_look,reason
+cap_seal_20260923_195648_853889.jpg,G01,pass,PASS,pass,pass,,The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G02,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G04,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_195648_853889.jpg,G05,pass,PASS,pass,pass,,The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G06,pass,PASS,pass,pass,,The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G07,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_195648_853889.jpg,G08,no_vial,REVIEW,pass,pass,no_vial,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The cap is seated flat and covers the vial's opening.
+cap_seal_20260923_195648_853889.jpg,G09,no_vial,REVIEW,pass,pass,no_vial,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The cap is seated flat and covers the vial's opening.
+cap_seal_20260923_195648_853889.jpg,G10,no_vial,REVIEW,pass,pass,no_vial,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The vial has a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G11,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G12,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The cap is seated flat and covers the vial opening.
+cap_seal_20260923_195648_853889.jpg,G13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G15,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G16,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_195648_853889.jpg,G17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_195648_853889.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_195648_853889.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,G01,pass,PASS,pass,pass,,The cap is seated flat and covers the vial opening.
+cap_seal_20260923_200050_218834.jpg,G02,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G04,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200050_218834.jpg,G05,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G06,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G07,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G08,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200050_218834.jpg,G09,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G10,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200050_218834.jpg,G11,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G12,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G15,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G16,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200050_218834.jpg,G17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200050_218834.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200050_218834.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,G01,pass,PASS,pass,pass,,The cap is seated flat and covers the vial opening.
+cap_seal_20260923_200315_077561.jpg,G02,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G04,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200315_077561.jpg,G05,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G06,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G07,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G08,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G09,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G10,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200315_077561.jpg,G11,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G12,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G15,no_vial,REVIEW,pass,pass,no_vial,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G16,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200315_077561.jpg,G17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200315_077561.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200315_077561.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,G01,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G02,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G04,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_200716_453762.jpg,G05,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G06,pass,PASS,pass,pass,,The cap is seated flat and covers the vial's opening.
+cap_seal_20260923_200716_453762.jpg,G07,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G08,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G09,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G10,pass,PASS,pass,pass,,The vial has a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G11,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G12,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G15,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G16,no_vial,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=0%) - check for an open vial. The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_200716_453762.jpg,G17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_200716_453762.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_200716_453762.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,G01,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G02,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G04,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G05,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G06,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G07,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G08,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G09,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G10,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G11,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G12,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G15,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G16,crooked_cap,REVIEW,pass,pass,,VLM says pass but the cap does not cover the vial opening (coverage 7%) - displaced or tilted cap? A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201029_585045.jpg,G17,missing_cap,REVIEW,pass,pass,missing_cap,VLM says pass but the cap does not cover the vial opening (coverage 0%) - displaced or tilted cap? The cap is seated flat and covers the vial opening.
+cap_seal_20260923_201029_585045.jpg,G19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201029_585045.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201029_585045.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,G01,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G02,pass,PASS,pass,pass,,The cap is seated flat and covers the vial's opening.
+cap_seal_20260923_201206_084799.jpg,G03,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G04,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G05,pass,PASS,pass,missing_cap,pass,First answer 'missing cap' contradicted the yellow cap covering the opening (100%); a second look says the cap is seated. The cap is seated properly.
+cap_seal_20260923_201206_084799.jpg,G06,pass,PASS,pass,pass,,The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G07,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G08,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G09,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G10,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G11,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G12,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G15,pass,PASS,pass,pass,,A vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G16,crooked_cap,REVIEW,pass,pass,,VLM says pass but the cap does not cover the vial opening (coverage 14%) - displaced or tilted cap? The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G17,missing_cap,REVIEW,pass,pass,missing_cap,VLM says pass but the cap does not cover the vial opening (coverage 0%) - displaced or tilted cap? The vial is present with a cap that covers its opening and sits level.
+cap_seal_20260923_201206_084799.jpg,G19,crooked_cap,REJECT,missing_cap,missing_cap,,"The vial is present but its mouth is open, no cap."
+cap_seal_20260923_201206_084799.jpg,G20,missing_cap,REVIEW,pass,pass,missing_cap,VLM says pass but no yellow cap was found (yellow=1%) - check for an open vial. The cap is seated flat and covers the vial's opening.
+cap_seal_20260923_201206_084799.jpg,G21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,G30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole | Empty at end of fill pattern (waiting for later vials)"
+cap_seal_20260923_201206_084799.jpg,S06,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S07,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S08,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S09,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S10,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S11,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S12,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S13,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S14,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S15,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S16,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S17,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S18,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S19,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S20,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S21,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S22,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S23,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S24,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S25,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S26,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S27,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S28,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S29,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
+cap_seal_20260923_201206_084799.jpg,S30,no_vial,EMPTY,no_vial,,,"Dark, uniform empty hole"
