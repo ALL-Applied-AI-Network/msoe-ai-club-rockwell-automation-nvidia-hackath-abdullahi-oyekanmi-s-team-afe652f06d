@@ -1,0 +1,121 @@
+[
+ {
+  "round": "R1_basic",
+  "train_positions": 5400,
+  "hard_examples": 0,
+  "twin_defects": "208/215",
+  "twin_good_flagged": "150/753",
+  "twin_lean_wrong": "147/188",
+  "twin_empty_ok": "440/442",
+  "next_render": {
+   "--tilt-min": 10,
+   "--tilt-max": 18,
+   "--p-lean": 0.45,
+   "--p-crooked": 0.25
+  },
+  "real_dev": {
+   "defects": "9/9",
+   "good_flagged": "65/72",
+   "empty_ok": "53/90"
+  },
+  "real_test": {
+   "defects": "6/6",
+   "good_flagged": "58/69",
+   "empty_ok": "48/97"
+  },
+  "real_extra": {
+   "defects": "0/0",
+   "good_flagged": "5/6",
+   "empty_ok": "39/83"
+  }
+ },
+ {
+  "round": "R2_plus_leaning",
+  "train_positions": 18900,
+  "hard_examples": 55,
+  "twin_defects": "200/215",
+  "twin_good_flagged": "28/753",
+  "twin_lean_wrong": "24/188",
+  "twin_empty_ok": "442/442",
+  "next_render": {
+   "--tilt-min": 10,
+   "--tilt-max": 18,
+   "--p-lean": 0.45,
+   "--p-crooked": 0.25
+  },
+  "real_dev": {
+   "defects": "4/9",
+   "good_flagged": "51/72",
+   "empty_ok": "41/90"
+  },
+  "real_test": {
+   "defects": "3/6",
+   "good_flagged": "50/69",
+   "empty_ok": "43/97"
+  },
+  "real_extra": {
+   "defects": "0/0",
+   "good_flagged": "4/6",
+   "empty_ok": "39/83"
+  }
+ },
+ {
+  "round": "R3_plus_camera_shift",
+  "train_positions": 27270,
+  "hard_examples": 94,
+  "twin_defects": "202/215",
+  "twin_good_flagged": "9/753",
+  "twin_lean_wrong": "8/188",
+  "twin_empty_ok": "442/442",
+  "next_render": {
+   "--tilt-min": 10,
+   "--tilt-max": 18,
+   "--p-crooked": 0.25
+  },
+  "real_dev": {
+   "defects": "4/9",
+   "good_flagged": "51/72",
+   "empty_ok": "49/90"
+  },
+  "real_test": {
+   "defects": "4/6",
+   "good_flagged": "50/69",
+   "empty_ok": "47/97"
+  },
+  "real_extra": {
+   "defects": "0/0",
+   "good_flagged": "4/6",
+   "empty_ok": "40/83"
+  }
+ },
+ {
+  "round": "R4_learn_from_mistakes",
+  "train_positions": 27270,
+  "hard_examples": 316,
+  "twin_defects": "201/215",
+  "twin_good_flagged": "13/753",
+  "twin_lean_wrong": "12/188",
+  "twin_empty_ok": "442/442",
+  "next_render": {
+   "--tilt-min": 10,
+   "--tilt-max": 18,
+   "--p-lean": 0.45,
+   "--p-crooked": 0.25
+  },
+  "real_dev": {
+   "defects": "6/9",
+   "good_flagged": "55/72",
+   "empty_ok": "45/90"
+  },
+  "real_test": {
+   "defects": "5/6",
+   "good_flagged": "51/69",
+   "empty_ok": "45/97"
+  },
+  "real_extra": {
+   "defects": "0/0",
+   "good_flagged": "4/6",
+   "empty_ok": "39/83"
+  }
+ }
+]
