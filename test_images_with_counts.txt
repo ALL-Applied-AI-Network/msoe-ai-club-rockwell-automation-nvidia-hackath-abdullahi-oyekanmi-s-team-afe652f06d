@@ -1,0 +1,19 @@
+# image  G=<vials the robot placed in the good fixture>  S=<scrap>  (read off each frame = what the PLC would report)
+# development
+cap_seal_20260923_195825_440016.jpg G=9 S=0
+cap_seal_20260923_200138_511942.jpg G=12 S=0
+cap_seal_20260923_200403_362060.jpg G=13 S=0
+cap_seal_20260923_200853_006086.jpg G=17 S=0
+cap_seal_20260923_201117_846444.jpg G=19 S=0
+cap_seal_20260923_201254_334471.jpg G=20 S=0
+# held-out test
+cap_seal_20260923_195648_853889.jpg G=7 S=0
+cap_seal_20260923_200050_218834.jpg G=11 S=0
+cap_seal_20260923_200315_077561.jpg G=12 S=0
+cap_seal_20260923_200716_453762.jpg G=15 S=0
+cap_seal_20260923_201029_585045.jpg G=18 S=0
+cap_seal_20260923_201206_084799.jpg G=20 S=0
+# extra: other day + empty plates
+cap_seal_20260922_192745_691919.jpg G=8 S=0
+cap_seal_20260923_191043_724473.jpg G=0 S=0
+cap_seal_20260923_194757_864001.jpg G=0 S=0
